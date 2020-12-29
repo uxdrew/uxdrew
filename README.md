@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Developer Engagement @FIS 
+- 🔭 I’m currently working at Rapyd Payments 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on developer interest
 - 🤔 I’m looking for help with 
