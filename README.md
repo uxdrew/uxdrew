@@ -1,7 +1,8 @@
-### Hi there 👋
-
-- 🔭 I’m currently working at Rapyd Payments 
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on developer interest
-- 💬 Ask me about our Airstream
-- 📫 How to reach me: @ux__drew
+### Merhaba 👋
+ 
+- 🔭 çalışıyorumbahadirsacmetaltdstieditor
+- 🌱İmar Mühendisi
+- 👯 Geliştirmek için işbirliği 
+- 💬Be7liveeinankara
+- 📫 Bana nasıl ulaşırsınız:isobahadir83@gmail.com 
+- https://www.linkedin.com/in/ismail-bahadir-8669a6252
